@@ -1,9 +1,11 @@
 What is it?
 
 This repository contains an MATLAB implementation of the following paper:
+
 Shanmin Pang, Jin Ma,  Jianru Xue, Jihua Zhu, and Vicente Ordonez, Deep Feature Aggregation with Heat Diffusion for Image Retrieval,arXiv:1805.08587.
 
-If you find this package is useful, please kindly cite our paper as follows
+If you find this package is useful, please kindly cite our paper as follows:
+
 @article{pang2018image,
   title={Image Retrieval using Heat Diffusion for Deep Feature Aggregation},
   author={Pang, Shanmin and Ma, Jin and Xue, Jianru and Zhu, Jihua and Ordonez, Vicente},
