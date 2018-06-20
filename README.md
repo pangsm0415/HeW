@@ -7,7 +7,7 @@ Shanmin Pang, Jin Ma,  Jianru Xue, Jihua Zhu, and Vicente Ordonez, Deep Feature 
 If you find this package is useful, please kindly cite our paper as follows:
 
 @article{pang2018image,
-  title={Image Retrieval using Heat Diffusion for Deep Feature Aggregation},
+  title={Deep Feature Aggregation with Heat Diffusion for Image Retrieval},
   author={Pang, Shanmin and Ma, Jin and Xue, Jianru and Zhu, Jihua and Ordonez, Vicente},
   journal={arXiv preprint arXiv:1805.08587},
   year={2018}
